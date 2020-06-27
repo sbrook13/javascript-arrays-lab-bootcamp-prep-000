@@ -4,5 +4,5 @@ var kittens = ["Milo", "Otis", "Garfield"] //define your array here
 function destructivelyAppendKitten(a){
   kittens.concat(a)
   var newKittens = kittens
-  return test
+  return newKittens
 }
