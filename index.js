@@ -5,3 +5,4 @@ var destructivelyAppendKitte = function(){
   kittens.concat([a])
   return kittens
 }
+kittens[...kittens,'test']
